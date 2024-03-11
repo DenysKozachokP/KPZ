@@ -1,0 +1,20 @@
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\bin\Debug\Program.exe.config
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\bin\Debug\Program.exe
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\bin\Debug\Program.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\bin\Debug\MoneyClassLibrary.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\bin\Debug\MoneyClassLibrary.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\obj\Debug\Program.exe
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\Program\obj\Debug\Program.pdb
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\bin\Debug\Program.exe.config
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\bin\Debug\Program.exe
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\bin\Debug\Program.pdb
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\bin\Debug\MoneyClassLibrary.dll
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\bin\Debug\MoneyClassLibrary.pdb
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\obj\Debug\Program.csproj.CopyComplete
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\obj\Debug\Program.exe
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\Program\obj\Debug\Program.pdb

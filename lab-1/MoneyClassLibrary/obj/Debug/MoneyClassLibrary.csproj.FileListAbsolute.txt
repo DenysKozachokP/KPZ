@@ -1,0 +1,12 @@
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\MoneyClassLibrary\bin\Debug\MoneyClassLibrary.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\MoneyClassLibrary\bin\Debug\MoneyClassLibrary.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Lab1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.pdb
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\MoneyClassLibrary\bin\Debug\MoneyClassLibrary.dll
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\MoneyClassLibrary\bin\Debug\MoneyClassLibrary.pdb
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.csproj.AssemblyReference.cache
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.csproj.CoreCompileInputs.cache
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.dll
+D:\Навчання_2_курс\Констроювання програмного забезпечення\KPZ\KPZ\lab-1\MoneyClassLibrary\obj\Debug\MoneyClassLibrary.pdb
