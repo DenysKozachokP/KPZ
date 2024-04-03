@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "task3/1.0.0": {
+        "dependencies": {
+          "task03-04Library": "1.0.0"
+        },
+        "runtime": {
+          "task3.dll": {}
+        }
+      },
+      "task03-04Library/1.0.0": {
+        "runtime": {
+          "task03-04Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "task03-04Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
