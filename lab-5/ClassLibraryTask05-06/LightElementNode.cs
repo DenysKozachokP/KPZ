@@ -14,6 +14,22 @@ namespace ClassLibraryTask05_06
         public List<string> CssClasses { get; set; }
         public List<LightNode> Children { get; set; }
 
+        public LightElementNode(string tagName, List<LightNode> children, List<string> cssClasses = null)
+        {
+            TagName = tagName;
+            Children = children ?? new List<LightNode>();
+            CssClasses = cssClasses ?? new List<string>();
+        }
+
+        public override void Accept(IHtmlVisitor visitor)
+        {
+            visitor.VisitElementNode(this);
+            foreach (var child in Children)
+            {
+                child.Accept(visitor);
+            }
+        }
+
         public override string OuterHtml
         {
             get
@@ -34,13 +50,6 @@ namespace ClassLibraryTask05_06
             }
         }
 
-        public LightElementNode(string tagName, string displayType, string closingType, List<string> cssClasses, List<LightNode> children)
-        {
-            TagName = tagName;
-            DisplayType = displayType;
-            ClosingType = closingType;
-            CssClasses = cssClasses;
-            Children = children;
-        }
+        
     }
 }

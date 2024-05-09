@@ -40,5 +40,9 @@
         {
             InvokeNodeEvent($"Text rendered for node: {GetType().Name}");
         }
+        public override void Accept(IHtmlVisitor visitor)
+        {
+            visitor.VisitParagraphNode(this);
+        }
     }
 }
