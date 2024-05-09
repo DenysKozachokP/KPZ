@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IHtmlVisitor;
 
 namespace ClassLibraryTask05_06
 {
@@ -23,6 +24,10 @@ namespace ClassLibraryTask05_06
         public LightTextNode(string text)
         {
             Text = text;
+        }
+        public override void Accept(IHtmlVisitor visitor)
+        {
+            visitor.VisitBlockquoteNode(this);
         }
     }
 }
